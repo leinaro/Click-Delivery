@@ -1,0 +1,9 @@
+----------------------------------------------
+-------------- Weather Travel ----------------
+----------------------------------------------
+
+This folder contains:
+
+1- WeatherTravel.zip - source code
+2- weatjertravel.apk - to install
+3- lib.zip - with appcompat_v7 and google-play-services_lib
